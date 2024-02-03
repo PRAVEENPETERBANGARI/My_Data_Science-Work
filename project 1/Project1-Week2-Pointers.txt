@@ -1,0 +1,32 @@
+Project 1
+Week 2
+1.- Multi class SVM
+	- kernel function
+  - Neural Networks
+	- Keras/Tensorflow
+	- Input Layers
+	- Hidden Layers
+	- Activation Function
+	- Make a classifier
+2. Xgboost + Oversampled_NB
+	- The data after SMOTE technique is applied
+	- Xgboost -> NB classifier -> Output Model
+3. Prepare a column called 'Sentiment Score'
+	- NLTK / Scikit Learn (Polarity Score)
+	- Use the Sentiment Score' column in the model and check for performance
+
+4. LSTM
+	- Top Word
+	- Embedding Length
+	- Dropout
+	- Epochs
+
+5. Compare LSTM vs NB vs SVM vs Xgboost_Models
+
+6. Hyper parameter finetuning to find optimum parameter for LSTM/GRU
+	- Grid Search CV
+	- Random Search
+7,8 Topic Modelling
+	- NLTK
+	- NLTK + Gensim
+	- Apply LDA Model

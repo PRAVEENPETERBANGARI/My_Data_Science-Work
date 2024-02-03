@@ -1,0 +1,78 @@
+State,New_Status,City
+Alabama,Closed,17
+Alabama,Open,9
+Arizona,Closed,14
+Arizona,Open,6
+Arkansas,Closed,6
+California,Closed,159
+California,Open,61
+Colorado,Closed,58
+Colorado,Open,22
+Connecticut,Closed,9
+Connecticut,Open,3
+Delaware,Closed,8
+Delaware,Open,4
+District Of Columbia,Closed,14
+District Of Columbia,Open,2
+District of Columbia,Closed,1
+Florida,Closed,201
+Florida,Open,39
+Georgia,Closed,208
+Georgia,Open,80
+Illinois,Closed,135
+Illinois,Open,29
+Indiana,Closed,50
+Indiana,Open,9
+Iowa,Closed,1
+Kansas,Closed,1
+Kansas,Open,1
+Kentucky,Closed,4
+Kentucky,Open,3
+Louisiana,Closed,12
+Louisiana,Open,1
+Maine,Closed,3
+Maine,Open,2
+Maryland,Closed,63
+Maryland,Open,15
+Massachusetts,Closed,50
+Massachusetts,Open,11
+Michigan,Closed,92
+Michigan,Open,23
+Minnesota,Closed,29
+Minnesota,Open,4
+Mississippi,Closed,23
+Mississippi,Open,16
+Missouri,Closed,3
+Missouri,Open,1
+Montana,Closed,1
+Nevada,Closed,1
+New Hampshire,Closed,8
+New Hampshire,Open,4
+New Jersey,Closed,56
+New Jersey,Open,19
+New Mexico,Closed,11
+New Mexico,Open,4
+New York,Closed,6
+North Carolina,Closed,3
+Ohio,Closed,3
+Oregon,Closed,36
+Oregon,Open,13
+Pennsylvania,Closed,110
+Pennsylvania,Open,20
+Rhode Island,Closed,1
+South Carolina,Closed,15
+South Carolina,Open,3
+Tennessee,Closed,96
+Tennessee,Open,47
+Texas,Closed,49
+Texas,Open,22
+Utah,Closed,16
+Utah,Open,6
+Vermont,Closed,2
+Vermont,Open,1
+Virginia,Closed,49
+Virginia,Open,11
+Washington,Closed,75
+Washington,Open,23
+West Virginia,Closed,8
+West Virginia,Open,3

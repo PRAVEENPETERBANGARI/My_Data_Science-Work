@@ -1,0 +1,17 @@
+Week 1
+------
+1. groupby/ value_counts
+2. tf-idf vectorizer
+
+Data Organization:
+	- train + test -> master data
+	- test data hidden -> validation
+
+3. sklearn naive bayes
+
+4. SMOTE
+5. Evaluation Metrics Check
+6. Bagging and Boosting
+	- Random Forest
+	- Xgboost
+7. Naive Bayes vs Random Forest vs Xgboost
